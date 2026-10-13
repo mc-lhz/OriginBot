@@ -1,0 +1,19 @@
+# Python 编译缓存
+__pycache__/
+*.py[cod]
+
+# 加密/备份工具产生的副本文件
+*.xltd
+*.xltd.cfg
+
+# 模型重复副本（如 resnet18_224x224_nv12.bin.1）
+*.1
+
+# 安装包与驱动（体积过大，不入库）
+programs/*.exe
+programs/*.msi
+programs/*.zip
+programs/Uart drive（CH340）/
+
+# 授权密钥
+programs/VM17_Pro_key.txt

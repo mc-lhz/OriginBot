@@ -1,0 +1,8 @@
+train: ./data/traffice_sign/train/images   
+val: ./data/traffice_sign/val/images   
+test: ./data/traffice_sign/test/images 
+# number of classes 
+11 
+nc: 3 
+# class names 
+names: ['green-light', 'blue-light','red-light'] 
